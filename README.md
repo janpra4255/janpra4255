@@ -51,8 +51,8 @@
 
 </br>
 
-**Contacto:** [![Mail Badge](https://img.shields.io/badge/-ceristh-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ceristh@gmail.com)  [![Github Badge](https://img.shields.io/badge/-ceristh-0e76a8?style=flat&labelColor=0e76a8&logo=github&logoColor=white)](https://www.github.com/ceristh/) 
-[![Linkedin Badge](https://img.shields.io/badge/-ceristh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ceristh/)
+**Contacto:** [![Mail Badge](https://img.shields.io/badge/-jose.prado.y-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jose.prado.y@gmail.com)  [![Github Badge](https://img.shields.io/badge/-janpra4255-0e76a8?style=flat&labelColor=0e76a8&logo=github&logoColor=white)](https://www.github.com/janpra4255/) 
+[![Linkedin Badge](https://img.shields.io/badge/-josepradoyupanqui-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/josepradoyupanqui/)
 
 </br>
 
