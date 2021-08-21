@@ -2,7 +2,7 @@
 
 </br>
 
-**Cristopher Muñoz desde Chile!!**
+**José Prado desde Chile!!**
 
 <hr>
 
@@ -56,4 +56,4 @@
 
 </br>
 
-<p>Email: ceristh@gmail.com</p>
+<p>Email: jose.prado.y@gmail.com</p>
